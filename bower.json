@@ -1,7 +1,7 @@
 {
   "name": "angular-oauth2",
-  "version": "4.0.1",
-  "description": "AngularJS OAuth2",
+  "version": "5.0.1",
+  "description": "AngularJS OAuth2 - WSO",
   "main": "./dist/angular-oauth2.js",
   "authors": [
     "Seegno <projects@seegno.com>"
